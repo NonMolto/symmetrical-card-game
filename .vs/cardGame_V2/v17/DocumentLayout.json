@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|c:\\users\\francisco jos\u00E9\\source\\repos\\cardgame_v2\\cardgame_v2\\arccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|solutionrelative:cardgame_v2\\arccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|c:\\users\\francisco jos\u00E9\\source\\repos\\cardgame_v2\\cardgame_v2\\arccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|solutionrelative:cardgame_v2\\arccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArcCard.cs",
+              "DocumentMoniker": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.cs",
+              "RelativeDocumentMoniker": "cardGame_V2\\ArcCard.cs",
+              "ToolTip": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.cs",
+              "RelativeToolTip": "cardGame_V2\\ArcCard.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwA8AAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:07:40.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArcCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.cs",
+              "RelativeDocumentMoniker": "cardGame_V2\\ArcCard.cs",
+              "ToolTip": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.cs [Design]",
+              "RelativeToolTip": "cardGame_V2\\ArcCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T00:54:20.473Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
