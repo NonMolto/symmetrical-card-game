@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|c:\\users\\francisco jos\u00E9\\source\\repos\\cardgame_v2\\cardgame_v2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|solutionrelative:cardgame_v2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardgame_v2\\arccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|solutionrelative:cardgame_v2\\arccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|c:\\users\\francisco jos\u00E9\\source\\repos\\cardgame_v2\\cardgame_v2\\arccard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|solutionrelative:cardgame_v2\\arccard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardgame_v2\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|solutionrelative:cardgame_v2\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|c:\\users\\francisco jos\u00E9\\source\\repos\\cardgame_v2\\cardgame_v2\\arccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|solutionrelative:cardgame_v2\\arccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardgame_v2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|solutionrelative:cardgame_v2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardgame_v2\\arccard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|solutionrelative:cardgame_v2\\arccard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardgame_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|solutionrelative:cardgame_v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +38,105 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArcCard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.Designer.cs",
+              "RelativeDocumentMoniker": "cardGame_V2\\ArcCard.Designer.cs",
+              "ToolTip": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.Designer.cs",
+              "RelativeToolTip": "cardGame_V2\\ArcCard.Designer.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAlwJ4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:16:53.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\App.config",
+              "RelativeDocumentMoniker": "cardGame_V2\\App.config",
+              "ToolTip": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\App.config",
+              "RelativeToolTip": "cardGame_V2\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-20T13:15:19.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArcCard.resx",
+              "DocumentMoniker": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.resx",
+              "RelativeDocumentMoniker": "cardGame_V2\\ArcCard.resx",
+              "ToolTip": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.resx",
+              "RelativeToolTip": "cardGame_V2\\ArcCard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-20T13:14:41.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\Program.cs",
+              "RelativeDocumentMoniker": "cardGame_V2\\Program.cs",
+              "ToolTip": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\Program.cs",
+              "RelativeToolTip": "cardGame_V2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:14:28.593Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\Form1.cs",
-              "RelativeDocumentMoniker": "cardGame_V2\\Form1.cs",
-              "ToolTip": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\Form1.cs [Design]",
-              "RelativeToolTip": "cardGame_V2\\Form1.cs [Design]",
+              "Title": "ArcCard.cs",
+              "DocumentMoniker": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.cs",
+              "RelativeDocumentMoniker": "cardGame_V2\\ArcCard.cs",
+              "ToolTip": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.cs",
+              "RelativeToolTip": "cardGame_V2\\ArcCard.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAqwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:07:40.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArcCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.cs",
+              "RelativeDocumentMoniker": "cardGame_V2\\ArcCard.cs",
+              "ToolTip": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.cs [Design]",
+              "RelativeToolTip": "cardGame_V2\\ArcCard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T00:54:20.473Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "cardGame_V2\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\Properties\\Resources.resx",
+              "RelativeToolTip": "cardGame_V2\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-20T13:42:44.702Z",
+              "EditorCaption": ""
             }
           ]
         }

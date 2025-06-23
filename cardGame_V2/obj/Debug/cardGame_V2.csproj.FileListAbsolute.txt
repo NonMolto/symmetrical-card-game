@@ -1,0 +1,11 @@
+C:\Users\Francisco José\source\repos\cardGame_V2\cardGame_V2\obj\Debug\cardGame_V2.csproj.AssemblyReference.cache
+C:\Users\Francisco José\source\repos\cardGame_V2\cardGame_V2\obj\Debug\cardGame_V2.frmCardGame.resources
+C:\Users\Francisco José\source\repos\cardGame_V2\cardGame_V2\obj\Debug\cardGame_V2.Properties.Resources.resources
+C:\Users\Francisco José\source\repos\cardGame_V2\cardGame_V2\obj\Debug\cardGame_V2.csproj.GenerateResource.cache
+C:\Users\Francisco José\source\repos\cardGame_V2\cardGame_V2\obj\Debug\cardGame_V2.csproj.CoreCompileInputs.cache
+C:\Users\Francisco José\source\repos\cardGame_V2\cardGame_V2\bin\Debug\cardGame_V2.exe.config
+C:\Users\Francisco José\source\repos\cardGame_V2\cardGame_V2\bin\Debug\cardGame_V2.exe
+C:\Users\Francisco José\source\repos\cardGame_V2\cardGame_V2\bin\Debug\cardGame_V2.pdb
+C:\Users\Francisco José\source\repos\cardGame_V2\cardGame_V2\obj\Debug\cardGame_V2.exe
+C:\Users\Francisco José\source\repos\cardGame_V2\cardGame_V2\obj\Debug\cardGame_V2.pdb
+C:\Users\Francisco José\source\repos\cardGame_V2\cardGame_V2\obj\Debug\cardGame_V2.exe.config
