@@ -10,7 +10,7 @@ private List <string> resources = new List<string> {
   Use of the `.Tag` property to associate data to buttons
 }
 
----
+
 
 # Request
 
@@ -20,5 +20,5 @@ Game logic
 Image manipulation
 Basic data structures (`List`, `array`)
 
----
+
 
