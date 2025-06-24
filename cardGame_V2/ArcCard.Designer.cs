@@ -188,6 +188,8 @@
             this.Controls.Add(this.pictureBoxCard3);
             this.Controls.Add(this.pictureBoxCard2);
             this.Controls.Add(this.pictureBoxCard1);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "frmCardGame";
             this.Load += new System.EventHandler(this.frmCardGame_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCard1)).EndInit();

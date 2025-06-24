@@ -13,8 +13,8 @@ namespace cardGame_V2
 {
     public partial class frmCardGame : Form
     {
-        private Button firstCard = null; // Need to be nullable to allow for no selection | Language Version 8.0 or higher
-        private Button secondCard = null; // Need to be nullable to allow for no selection | Language Version 8.0 or higher
+        private Button firstCard = null; 
+        private Button secondCard = null;
         private int[] pair = new int[6];
 
         private Random random = new Random();

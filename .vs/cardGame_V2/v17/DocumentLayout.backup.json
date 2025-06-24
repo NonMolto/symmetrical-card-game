@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardgame_v2\\arccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardgame_v2\\arccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|solutionrelative:cardgame_v2\\arccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|c:\\users\\francisco jos\u00E9\\source\\repos\\cardgame_v2\\cardgame_v2\\arccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|solutionrelative:cardgame_v2\\arccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|c:\\users\\francisco jos\u00E9\\source\\repos\\cardgame_v2\\cardgame_v2\\arccard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardgame_v2\\arccard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|solutionrelative:cardgame_v2\\arccard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardgame_v2\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|solutionrelative:cardgame_v2\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|c:\\users\\francisco jos\u00E9\\source\\repos\\cardgame_v2\\cardgame_v2\\arccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|solutionrelative:cardgame_v2\\arccard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76C3068B-DFF0-40C5-BF0E-750E560B73E5}|cardGame_V2\\cardGame_V2.csproj|C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardgame_v2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,17 +53,8 @@
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ArcCard.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.Designer.cs",
-              "RelativeDocumentMoniker": "cardGame_V2\\ArcCard.Designer.cs",
-              "ToolTip": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.Designer.cs",
-              "RelativeToolTip": "cardGame_V2\\ArcCard.Designer.cs",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAlwJ4AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T14:16:53.116Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -83,8 +74,8 @@
               "Title": "ArcCard.resx",
               "DocumentMoniker": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.resx",
               "RelativeDocumentMoniker": "cardGame_V2\\ArcCard.resx",
-              "ToolTip": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.resx",
-              "RelativeToolTip": "cardGame_V2\\ArcCard.resx",
+              "ToolTip": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.resx*",
+              "RelativeToolTip": "cardGame_V2\\ArcCard.resx*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2025-06-20T13:14:41.984Z",
               "EditorCaption": ""
@@ -103,32 +94,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "ArcCard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.Designer.cs",
+              "RelativeDocumentMoniker": "cardGame_V2\\ArcCard.Designer.cs",
+              "ToolTip": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.Designer.cs*",
+              "RelativeToolTip": "cardGame_V2\\ArcCard.Designer.cs*",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAJIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:16:53.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ArcCard.cs",
               "DocumentMoniker": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.cs",
               "RelativeDocumentMoniker": "cardGame_V2\\ArcCard.cs",
-              "ToolTip": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.cs",
-              "RelativeToolTip": "cardGame_V2\\ArcCard.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAqwIQAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.cs*",
+              "RelativeToolTip": "cardGame_V2\\ArcCard.cs*",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAmwHkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T01:07:40.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ArcCard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.cs",
               "RelativeDocumentMoniker": "cardGame_V2\\ArcCard.cs",
-              "ToolTip": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.cs [Design]",
-              "RelativeToolTip": "cardGame_V2\\ArcCard.cs [Design]",
+              "ToolTip": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\ArcCard.cs [Design]*",
+              "RelativeToolTip": "cardGame_V2\\ArcCard.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T00:54:20.473Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\Users\\Francisco Jos\u00E9\\source\\repos\\cardGame_V2\\cardGame_V2\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "cardGame_V2\\Properties\\Resources.resx",
